@@ -1,0 +1,5 @@
+Funções dos comandos:
+
+- git clone - clonar um repositório remoto já existente
+- git push - enviar as alterações para o repositório remoto
+- git pull - atualizar o repositório local com a versão mais recente
